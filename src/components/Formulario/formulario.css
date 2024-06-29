@@ -1,0 +1,22 @@
+.formu{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 80px 15px;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.formu form{
+    flex: 2;
+    background-color: #f7f7f7;
+    box-shadow: 7px 7px 15px rgba(0, 0, 0, 25%);
+    border-radius: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+}
+
+.formu h2{
+    font-size: 32px;
+    font-weight: 400;
+    color: #212121;
+}
